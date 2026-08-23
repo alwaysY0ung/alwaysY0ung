@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chaeyoung Lee 👋</h1>
-<p align="center"><b>Undergraduate researcher @ SNSec Lab · Security × Machine Learning</b></p>
+<p align="center"><b>M.S. student @ Sookmyung · Graduate researcher @ SNSec Lab · Security × Machine Learning</b></p>
 
 <p align="center">
   <a href="https://chaeyoung.net"><img src="https://img.shields.io/badge/Website-chaeyoung.net-2563eb?style=for-the-badge&logo=astro&logoColor=white"></a>
@@ -11,8 +11,9 @@
 ---
 
 ### About
-- Fourth-year **undergraduate**, Division of Artificial Intelligence Engineering (minoring in Big Data), **Sookmyung Women's University** (2023–present) — **GPA 4.45 / 4.5**
-- **Undergraduate researcher** @ **[SNSec Lab](https://snsec.net)** (System & Network Security Lab) · Advisor: **[Prof. Seonghoon Jeong](https://github.com/seonghoony)**
+- **M.S. student**, Division of Artificial Intelligence Engineering, **Sookmyung Women's University** (Sep 2026–present)
+- **B.S.**, Division of Artificial Intelligence Engineering (minoring in Big Data), **Sookmyung Women's University** (2023–Aug 2026, **early graduation**) — **GPA 4.45 / 4.5**, ranked 1st in the College of Engineering among Aug 2026 graduates
+- **Graduate researcher** @ **[SNSec Lab](https://snsec.net)** (System & Network Security Lab) · Advisor: **[Prof. Seonghoon Jeong](https://github.com/seonghoony)**
 - I build **robust, explainable systems** for **data-driven security with machine learning** — detecting and *explaining* intrusions, from connected vehicles to evolving network threats.
 
 ### Research Interests
