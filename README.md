@@ -12,7 +12,7 @@
 
 ### About
 - **M.S. student**, Division of Artificial Intelligence Engineering, **Sookmyung Women's University** (Sep 2026–present)
-- **B.S.**, Division of Artificial Intelligence Engineering (minoring in Big Data), **Sookmyung Women's University** (2023–Aug 2026, **early graduation**) — **GPA 4.45 / 4.5**, ranked 1st in the College of Engineering among Aug 2026 graduates
+- **B.S.**, Division of Artificial Intelligence Engineering (minoring in Big Data), **Sookmyung Women's University** (2023–Aug 2026, **early graduation**) — **GPA 4.45 / 4.5**, 1st in the College of Engineering (Aug 2026 graduating class)
 - **Graduate researcher** @ **[SNSec Lab](https://snsec.net)** (System & Network Security Lab) · Advisor: **[Prof. Seonghoon Jeong](https://github.com/seonghoony)**
 - I build **robust, explainable systems** for **data-driven security with machine learning** — detecting and *explaining* intrusions, from connected vehicles to evolving network threats.
 
